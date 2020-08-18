@@ -6,7 +6,7 @@ https://github.com/becodeorg/atw-giertz-3-23/tree/master/1.The-Field/extra-proje
 * Improve Website:
 https://www.versengezond.be/nl/
 
-* Pusblish:
+* Publish:
 https://tessakam.github.io/social-impact-Vers-en-Gezond/
 
 
