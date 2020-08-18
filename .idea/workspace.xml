@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="313f9664-e374-4f8f-80cd-b6521f23aa67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/logo.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/c8971e3ea0f3a906aed6e1526a4c634215705407/index.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/index.min.css.map" afterDir="false" />
@@ -41,10 +46,12 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.scss" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,7 +65,10 @@
       <workItem from="1597734703341" duration="775000" />
       <workItem from="1597735497891" duration="138000" />
       <workItem from="1597735655703" duration="101000" />
-      <workItem from="1597735822918" duration="11589000" />
+      <workItem from="1597735822918" duration="12623000" />
+      <workItem from="1597750137340" duration="1065000" />
+      <workItem from="1597751477727" duration="736000" />
+      <workItem from="1597752568529" duration="5938000" />
     </task>
     <servers />
   </component>
@@ -69,17 +79,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1753" y="271" width="721" height="445" key="EditFileWatcherDialog" timestamp="1597743783113">
+    <state x="406" y="49" width="731" height="653" key="EditFileWatcherDialog" timestamp="1597752598273">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="1742" y="59" width="721" height="689" key="EditFileWatcherDialog/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597751598888" />
+    <state x="406" y="49" width="731" height="653" key="EditFileWatcherDialog/1366.32.1440.900/67.27.1299.741@67.27.1299.741" timestamp="1597751718783" />
+    <state x="406" y="49" key="EditFileWatcherDialog/67.27.1299.741@67.27.1299.741" timestamp="1597752598273" />
+    <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597751120468">
       <screen x="1366" y="32" width="1440" height="900" />
     </state>
-    <state x="1753" y="271" width="721" height="445" key="EditFileWatcherDialog/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597743783113" />
-    <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597743720612">
+    <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597751120468" />
+    <state x="285" y="38" key="SettingsEditor" timestamp="1597752779450">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="1608" y="129" key="SettingsEditor/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597751600761" />
+    <state x="285" y="38" key="SettingsEditor/1366.32.1440.900/67.27.1299.741@67.27.1299.741" timestamp="1597751792941" />
+    <state x="285" y="38" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1597752779450" />
+    <state x="1908" y="355" width="400" height="277" key="scopes" timestamp="1597750426350">
       <screen x="1366" y="32" width="1440" height="900" />
     </state>
-    <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597743720612" />
-    <state x="1608" y="129" key="SettingsEditor" timestamp="1597743783984">
-      <screen x="1366" y="32" width="1440" height="900" />
-    </state>
-    <state x="1608" y="129" key="SettingsEditor/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597743783984" />
+    <state x="1908" y="355" width="400" height="277" key="scopes/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1597750426350" />
   </component>
 </project>
